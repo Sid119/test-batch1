@@ -15,7 +15,6 @@ EXPOSE 1010
 ENV one=two
 EXPOSE 2020
 # My name is Siddharth
-# I love my country
 
 CMD ["node", "server.js"]
 
